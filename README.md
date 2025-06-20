@@ -4,13 +4,14 @@
 - Avital Amikam, id 313589848
 - Roni Salama, id 318224516
 
-## How to Run the Project
-1.Clone this repository to your local machine
-2. Navigate to the project directory in your terminal.
-2. Ensure you have Node.js installed (you can download it from: https://nodejs.org/)
-3. Install dependencies: npm install
-4. Start the local web server from the project root: node index.js
-5. Open your browser and navigate to: http://localhost:8000
+### How to Run the Project
+
+1. Clone this repository to your local machine.  
+2. Navigate to the project directory in your terminal.  
+3. Ensure you have Node.js installed (you can download it from: [https://nodejs.org](https://nodejs.org))  
+4. Install dependencies: `npm install`  
+5. Start the local web server from the project root: `node index.js`  
+6. Open your browser and navigate to: [http://localhost:8000](http://localhost:8000)
 
 ## Files Included
 - index.html – entry point for the project
